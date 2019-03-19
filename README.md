@@ -1,4 +1,4 @@
-##Spring cloud config with docker
+## Spring cloud config with docker
 
 - install docker first on your machine
 - install maven
